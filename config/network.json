@@ -1,0 +1,10 @@
+{
+  "network_name": "Demo Network (edit config/network.json)",
+  "rulebook_label": "Visa Merchant Data Standards Manual, 2023 edition as supplied",
+  "mcc_change_process": "Submit the network's MCC request form through the network's member portal (the manual's Section 3, p.107, names the Visa MCC Request Form via Visa Online).",
+  "escalation_contact": "your network's merchant standards or MCC desk",
+  "extra_restricted_mccs": [],
+  "extra_high_risk_mccs": [],
+  "disclaimer": "Decision support only. The acquirer remains responsible for the final MCC, in line with the network's rules.",
+  "min_annual_txn_5818": 25000000
+}
